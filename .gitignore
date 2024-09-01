@@ -1,0 +1,9 @@
+result
+.devenv
+*.local.*
+.conan2
+build
+tmp
+CMakeUserPresets.json
+.pre-commit-config.yaml
+.DS_Store
